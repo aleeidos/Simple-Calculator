@@ -8,7 +8,7 @@ Running: <br>
 
 
 Performing the calculations according to the chosen operation. <br> 
-![image](https://github.com/iAlesynxs/Simple-Calculator/assets/121182276/4312a4dc-fe4d-41b9-a2cf-0c4c6b314526)
+![image](https://github.com/iAlesynxs/Simple-Calculator/assets/121182276/4312a4dc-fe4d-41b9-a2cf-0c4c6b314526) <br>
 Running: <br>
 ![image](https://github.com/iAlesynxs/Simple-Calculator/assets/121182276/9ae5a402-cbad-4527-b0bb-5a166f3ceccd)
 
